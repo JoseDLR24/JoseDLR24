@@ -9,7 +9,7 @@ So, here you have a passionate Colombian bringing you programming and design fro
  I like to learn JavaScript and ReactJS, these are challenging subjects, but I find them fascinating and rewarding. Also, I enjoy creating wireframes and UI/UX designs.
 
 
-Skills: REACT / JS / HTML / CSS / SASS / SEO
+Skills: REACT / JS / HTML / CSS / TAILWINDCSS / SEO
 
 - 🔭 I’m currently working on the live site of my portfolio 
 - 📫 How to reach me: jdlrosorio23@gmail.com 
