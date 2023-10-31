@@ -11,7 +11,7 @@ So, here you have a passionate Colombian bringing you programming and design fro
 
 Skills: REACT / JS / HTML / CSS / TAILWINDCSS / SEO
 
-- 🔭 I’m currently working on the live site of my portfolio 
+- 🔭 https://www.josedelosreyes.com/ 
 - 📫 How to reach me: jdlrosorio23@gmail.com 
 
 
