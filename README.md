@@ -11,7 +11,7 @@ So, here you have a passionate Colombian bringing you programming and design fro
 
 Skills: REACT / JS / HTML / CSS / TAILWINDCSS / SEO
 
-- 🔭 https://www.josedelosreyes.com/ 
+- 🔭 https://portfolio-react-teal-theta.vercel.app/
 - 📫 How to reach me: jdlrosorio23@gmail.com 
 
 
